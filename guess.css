@@ -1,0 +1,26 @@
+#sub{
+
+        background-color: black;
+        color:white;
+        margin-left: 650px;
+        
+    
+}
+#guess{
+    color:crimson;
+    text-align: centre;
+    margin-left:500px ;
+    margin-bottom: 5px;
+}
+#play{
+    text-align: centre;
+    margin-left:600px ;
+    margin-top: 5px;
+}
+#pick{
+    margin-left: 550px;
+    color:blue
+}
+#in{
+    margin-left: 600px;
+}
